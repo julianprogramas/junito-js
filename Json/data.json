@@ -3,72 +3,72 @@
    "id":1,
    "nombre": "Honey 30 Lts",
    "precio": 18000,
-   "imagen": "../fotos/honey.jpg"
+   "imagen": "./fotos/honey.jpg"
    },
    {
    "id":2,
    "nombre": "Ipa 30 Lts",
    "precio": 20100,
-   "imagen":  "../fotos/ipa.jpg"
+   "imagen":  "./fotos/ipa.jpg"
    },
    {
    "id":3,
    "nombre": "Apa 30 Lts",
    "precio": 19500,
-   "imagen": "../fotos/apa.jpg"
+   "imagen": "./fotos/apa.jpg"
    },
    {
    "id":4,
    "nombre": "Stout 30 Lts",
    "precio": 18600,
-   "imagen": "../fotos/Stout30Lts.jpg"
+   "imagen": "./fotos/Stout30Lts.jpg"
    },
    {
    "id":5,
    "nombre": "Scotish 30 Lts",
    "precio": 18000,
-   "imagen": "../fotos/Scotish30Lts.jpg"
+   "imagen": "./fotos/Scotish30Lts.jpg"
    },
    {
    "id":6,
    "nombre": "Golden 30 Lts",
    "precio": 16500,
-   "imagen": "../fotos/gold.jpg"
+   "imagen": "./fotos/gold.jpg"
    },
    {
    "id":7,
    "nombre": "Honey 50 Lts",
    "precio": 30000,
-   "imagen": "../fotos/hney50.jpg"
+   "imagen": "./fotos/hney50.jpg"
    },
    {
    "id":8,
    "nombre": "Ipa 50 Lts",
    "precio": 33500,
-   "imagen":  "../fotos/ipa.jpg"
+   "imagen":  "./fotos/ipa.jpg"
    },
    {
    "id":9,
    "nombre": "Apa 50 Lts",
    "precio": 32500,
-   "imagen": "../fotos/apa.jpg"
+   "imagen": "./fotos/apa.jpg"
    },
    {
    "id":10,
    "nombre": "Stout 50 Lts",
    "precio": 31000,
-   "imagen": "../fotos/Stout30Lts.jpg"
+   "imagen": "./fotos/Stout30Lts.jpg"
    },
    {
    "id":11,
    "nombre": "Scotish 50 Lts",
    "precio": 30000,
-   "imagen": "../fotos/Scotish30Lts.jpg"
+   "imagen": "./fotos/Scotish30Lts.jpg"
    },
    {
    "id":12,
    "nombre": "Golden 50 Lts",
    "precio": 27500,
-   "imagen": "../fotos/gold.jpg"
+   "imagen": "./fotos/gold.jpg"
    }
 ]
