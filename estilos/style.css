@@ -1,0 +1,49 @@
+.foto{
+    display: flex;
+    justify-content:space-between ;
+    justify-content: start;
+    width: 60px;
+    height: 60px;
+}
+h2{
+  display: flex;
+  justify-content: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  
+  .bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(
+      var(--bs-success-rgb),
+      var(--bs-bg-opacity)
+    ) !important;
+  }
+  
+  body{
+    background: wheat;
+  }
+
+  #cards{
+    display: flex;
+    justify-content: center;
+  }
+  .iconoCarrito{
+    margin-left: 96vw;
+    width: 2.5vw;
+    height: auto;
+  }
+  
+  .titulo{
+    margin-top: 70vw;
+  }
+
+  header{
+    color: rgb(3, 28, 43);
+  }
