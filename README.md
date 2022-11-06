@@ -1,2 +1,2 @@
-# junito-js
+# juanito-js
 final
