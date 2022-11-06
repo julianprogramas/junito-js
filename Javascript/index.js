@@ -39,7 +39,7 @@ const comprar = (canilla) =>{
 
 //Variable canillas con fetch y then para traer el array desde data.json.
 let canillas
-fetch("../Json/data.json")
+fetch("./Json/data.json")
 .then((response) => response.json())
   .then((data) => {
     data.forEach((nuevaCanilla) => {
